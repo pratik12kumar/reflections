@@ -3,3 +3,15 @@ Remote reository can be used to collaborate with others by sharing your work wit
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 We want to be in control as to when we want to pull changes in  the local repository. only when a logical change has been acheived on github , would we want to pull that  change in our local.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork creats a copy of repository from github to github. clone creates a copy of a repo on github to local or from local to local. branches tell about the commit history. Fork is used when we want to work on someone else repository without affecting his repo.Clone is used when we want to make code changes in a repo and so it has to be done in local, so we clone the repo to our local from github.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It will help us to keep a copy of the branch in remote so that when we are offline we can check what changes were made on the remote by some other collaborator.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Without Git or GitGub I would have to collaborate by sharing the files everytime I want the collborator wants to see my changes or I want to see the changes made by them.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When we would first want to share the changes in that branch with other collaborators and take their inputs into consideration before merging that branch with the master.
