@@ -19,4 +19,4 @@ How might using version control make you more confident to make changes that cou
 I can make major changes after a commit instead of making small changes for the fear of losing all the progress so far.
 
 Now that you have your workspace set up, what do you want to try using Git for?
-I want to use it for making commits of a repository and then working with those commits like comparing 2 commits, and checking out previous commits.	
+I want to use it for making commits of a repository and then working with those commits like comparing 2 commits, and checking out previous commits. Helo Peope	
